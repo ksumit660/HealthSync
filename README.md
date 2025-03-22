@@ -161,9 +161,9 @@ Submit a pull request with your changes.
 For major updates, please open an issue first to discuss the proposed changes.
 
 📩 Contact & Support
-📧 Email: your.email@example.com
-🔗 GitHub: Your GitHub Profile
-🌎 Website: Your Website
+📧 Email: sumitkumar042006@gmail.com
+🔗 GitHub: [Your GitHub Profile](https://github.com/sumit1004)
+Linked in: https://www.linkedin.com/in/sumit-kumar-685954329/
 
 💙 Transforming Healthcare, One Face at a Time! 🚀
  
